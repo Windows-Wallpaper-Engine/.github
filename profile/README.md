@@ -4,7 +4,7 @@
 
 Transforming your desktop from a static image into a living, breathing work of art is easier than ever. **Wallpaper Engine** is the definitive software for desktop customization, allowing users to create, share, and use animated wallpapers. Whether you are looking for a **Wallpaper Engine Windows 10 Free Download** method or setting it up on the latest OS, this guide covers everything you need to know.
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD-WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
+![Download for Windows](https://img.shields.io/badge/DOWNLOAD-WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## About the Software 🎨
 
